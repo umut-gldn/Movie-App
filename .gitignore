@@ -1,0 +1,66 @@
+# Mevcut içerik
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Eklenen içerik
+# Gizli bilgiler
+/app/src/main/java/com/umut/movieapp/common/Constants.kt
+
+# Gradle wrapper dosyası
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/*.iml
+/.idea/gradle.xml
+/.idea/dictionaries
+/.idea/inspectionProfiles
+
+# Log dosyaları
+*.log
+
+# Android profiling
+*.hprof
+
+# Keystore dosyaları
+*.jks
+*.keystore
+
+# Google Services (örn. APIs veya Firebase)
+google-services.json
+
+# Freeline
+freeline.py
+freeline/
+freeline_project_description.json
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# Version control
+vcs.xml
+
+# lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
